@@ -1,0 +1,30 @@
+{"allTutors": [
+  {
+    "availablility": [],
+    "name": "Matt",
+    "rating": [],
+    "coursesOffered": [],
+    "faculty": "Arts"
+  },
+  {
+    "availablility": [],
+    "name": "Steven",
+    "rating": [],
+    "coursesOffered": [],
+    "faculty": "Science"
+  },
+  {
+    "availablility": [],
+    "name": "Paul",
+    "rating": [],
+    "coursesOffered": [],
+    "faculty": "Sauder"
+  },
+  {
+    "availablility": [],
+    "name": "Tyler",
+    "rating": [5],
+    "coursesOffered": [],
+    "faculty": "Engineering"
+  }
+]}
